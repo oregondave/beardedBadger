@@ -1,0 +1,770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"filter",
+				"filterinput"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tab",
+				"table	<table>"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ligh",
+				"lightgray"
+			],
+			[
+				"med",
+				"mediumgray"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bav",
+				"apple-backface-visibility"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"$locat",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"searc",
+				"search-bar"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"even",
+				"eventData"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"succes",
+				"successcb"
+			],
+			[
+				"succe",
+				"successcb"
+			],
+			[
+				"in",
+				"ins	Tag"
+			],
+			[
+				"lab",
+				"label	<label>"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"border",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1794,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "partials/shared/banner.html",
+			"settings":
+			{
+				"buffer_size": 995,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "partials/home/home.html",
+			"settings":
+			{
+				"buffer_size": 6445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/img/svg/badger.svg",
+			"settings":
+			{
+				"buffer_size": 4039,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "partials/shared/topbar.html",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scss/ui.beardedbadger.scss",
+			"settings":
+			{
+				"buffer_size": 4785,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/img/svg/logotype.svg",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/fonts/amatic/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"plug",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/davecaskey/Sites/davidashby/app/scss/ui.davidashby.scss",
+		"/Users/davecaskey/Sites/beardedBadger/app/partials/shared/banner.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/assets/webfontkit-20140307-211902/amaticsc-regular-demo.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/assets/img/svg/badger.svg",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davecaskey/Downloads/PreDawn_MOD.tmTheme",
+		"/Users/davecaskey/Downloads/predawn-master-1/predawn.tmTheme",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/davecaskey/Library/Application Support/Sublime Text 3/Installed Packages/Predawn.sublime-package",
+		"/Users/davecaskey/Desktop/dynamic_add_del_row/index.html",
+		"/Users/davecaskey/Desktop/easyui-datagrid23-demo/data/datagrid_data.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/data/profile/profile.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/views/profile/profileSubjects.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/data/fte/fte.json",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/services/fteData.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/data/fte/dumo.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/controllers/profiles/ProfileController.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/views/home/home.html",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/index.html",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/directives.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/fte/fte.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/home/home.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/controllers/homeController.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/partials/shared/topbar.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/scss/ui.aif.scss",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/controllers/fteController.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/services/homeData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/controllers/homeController.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/index.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/partials/shared/topbar.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/Gruntfile.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/index.html",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/controllers/home.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/services.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/filters.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/ecm.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/directives.js",
+		"/Users/davecaskey/Documents/EBSCO/proto/app/js/controllers.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM/app/index.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/Gruntfile.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/index.html",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/controllers/home.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/angular_app.js",
+		"/Users/davecaskey/Sites/beardedBadger/app/package.json",
+		"/Users/davecaskey/Sites/beardedBadger/app/js/davidashby.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/directives.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/project.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/filters.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/services/TopbarData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/services/ProfileData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/services/homeData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/services/EventData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/services/appraisalsData.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/controllers/profiles/ProfileController.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/controllers/TopbarController.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/controllers/EventController.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/controllers/appraisalsController.js",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/Gruntfile.js",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/views/home/home.html",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/partials/home/appraisalsGrid.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/scss/ui.ecm.scss",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/partials/home/home.html",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/index.html",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/data/appraisals/appraisals.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/data/appraisals/appraisals.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/partials/home/appraisalsGrid.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/views/home/home.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/data/appraisals/appraisalsData.js",
+		"/Users/davecaskey/Sites/XXX_AIF_bootstrap/app/scss/ui.aif.scss",
+		"/Users/davecaskey/Documents/EBSCO/pluralsight/Angular.js_Fundamentals/Introduction_to_Angular/app/EventDetails.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/data/home/home.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/data/profile/profile.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/data/topbar/topbar.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/underscore/index.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/EventDetails.html",
+		"/Users/davecaskey/Sites/AIF_bootstrap/package.json",
+		"/Users/davecaskey/Sites/AIF_bootstrap/app/js/project/validationData.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/views/profile/profileNew.html",
+		"/Users/davecaskey/Desktop/angular-seed-master/app/js/directives.js",
+		"/Users/davecaskey/Desktop/angular-seed-master/app/index.html",
+		"/Users/davecaskey/Desktop/angular-seed-master/app/js/app.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/project/validationData.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/libs/html5.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/project.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/libs/bootstrap/bootstrap.js",
+		"/Users/davecaskey/Desktop/Flatstrap-for-Bootstrap-3-master/Gruntfile.js",
+		"/Users/davecaskey/Desktop/Flatstrap-for-Bootstrap-3-master/dist/css/bootstrap-theme.css",
+		"/Users/davecaskey/Desktop/Flatstrap-for-Bootstrap-3-master/docs/dist/css/bootstrap.min.css",
+		"/Users/davecaskey/Desktop/Flatstrap-for-Bootstrap-3-master/dist/css/bootstrap.css",
+		"/Users/davecaskey/Desktop/Flatstrap-for-Bootstrap-3-master/docs/index.html",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/data/home/home.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/controllers/homeController.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/services/homeData.js",
+		"/Users/davecaskey/Documents/EBSCO/pluralsight/Angular.js_Fundamentals/Introduction_to_Angular/app/js/controllers/EventController.js",
+		"/Users/davecaskey/Documents/EBSCO/pluralsight/Angular.js_Fundamentals/Introduction_to_Angular/app/data/event/1.json",
+		"/Users/davecaskey/Documents/EBSCO/pluralsight/Angular.js_Fundamentals/Introduction_to_Angular/app/js/controllers/EditEventController.js",
+		"/Users/davecaskey/Documents/EBSCO/pluralsight/Angular.js_Fundamentals/Introduction_to_Angular/app/js/services/EventData.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/services/bodyData.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/controllers/bodyController.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/services/TopbarData.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/services/EventData copy.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/data/body/body.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/controllers/TopbarController.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/partials/shared/topbar.html",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/data/topbar/topbar.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/js/filters.js",
+		"/Users/davecaskey/Sites/aif/app/js/services/EventData.js",
+		"/Users/davecaskey/Sites/aif/app/js/controllers/TopbarController.js",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/css/bootstrap/bootstrap.css",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/angular-seed-master/app/index.html",
+		"/Users/davecaskey/Sites/aif/app/index.html",
+		"/Users/davecaskey/Sites/aif/app/Gruntfile.js",
+		"/Users/davecaskey/Sites/aif/app/partials/shared/topbar.html",
+		"/Users/davecaskey/Sites/aif/app/package.json",
+		"/Users/davecaskey/Sites/aif/package.json",
+		"/Users/davecaskey/Sites/aif/app/js/filters.js",
+		"/Users/davecaskey/Sites/aif/app/js/services/TopbarData.js",
+		"/Users/davecaskey/Sites/aif/app/js/controllers/EventController.js",
+		"/Users/davecaskey/Sites/aif/app/data/event/1.json",
+		"/Users/davecaskey/Sites/aif/app/data/topbar/topbar.json",
+		"/Users/davecaskey/Sites/aif/app/js/app.js",
+		"/Users/davecaskey/Desktop/silviomoreto-bootstrap-select-df2059c/bootstrap-select.jquery.json",
+		"/Users/davecaskey/Documents/EBSCO/ECM_bootstrap/app/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list",
+			"listFilter",
+			"list",
+			"header",
+			"ecm",
+			"modal",
+			"a:hover",
+			"97",
+			"e114",
+			"glyph",
+			"event",
+			"eventsApp",
+			"ng",
+			"ToolsVersion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1108,
+								1108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "partials/shared/banner.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "partials/home/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2267,
+								2267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/img/svg/badger.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "partials/shared/topbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1440,
+								1440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/ui.beardedbadger.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2174,
+								2174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 983.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/img/svg/logotype.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/fonts/amatic/stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "beardedBadger.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/davidashby/davidashby.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

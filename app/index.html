@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="en" ng-app="beardedBadger">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BEARDED BADGER</title>
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/ui.beardedbadger.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.vegas.css" />
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+
+    <script src="bower_components/modernizr/modernizr.js"></script>
+
+
+  </head>
+
+  <body>
+
+  <!-- ------------------------ -->
+  <!-- HEADER & TOP-BAR SECTION -->
+  <!-- ------------------------ -->
+
+    <div class="" ng-include="'partials/shared/topbar.html'"></div>
+
+    <div class="" ng-include="'partials/shared/banner.html'"></div>
+    <div class="" ng-include="'partials/home/home.html'"></div>
+
+
+
+
+
+    <script src="bower_components/jquery/jquery.js"></script>
+    <script src="bower_components/foundation/js/foundation.min.js"></script>
+
+    <script src="js/beardedBadger.js"></script>
+    <script src="lib/headroom.js"></script>
+    <script src="lib/vegas/jquery.vegas.js"></script>
+    <script src="js/app.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular/angular-sanitize.js"></script>
+    <script src="js/angular_app.js"></script>
+
+
+    <script src="js/controllers/home.js"></script>
+
+
+    <script>
+
+
+
+    $.vegas({ });
+    $.vegas('overlay', {
+        src:'assets/img/slider/overlay.png'
+    });
+    </script>
+
+
+  </body>
+
+</html>
